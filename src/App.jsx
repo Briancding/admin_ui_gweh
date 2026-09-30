@@ -17,7 +17,7 @@ function App() {
           <img src={reactLogo} className="w-24 h-24 animate-spin" alt="React logo" style={{ animationDuration: "5s" }}/>
         </a>
       </div>
-      <h1 className="text-white text-5xl fnt-bold mb-16"> Vite + React </h1>
+      <h1 className="text-white text-5xl font-bold mb-16"> Vite + React </h1>
       <h3> Brian danu w </h3>
       <div className="text-sm space-y-6 mb-8">
         <button onClick={() => setCount((count) => count + 1)}
