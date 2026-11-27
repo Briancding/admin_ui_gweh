@@ -7,6 +7,6 @@ import PageDashboard from "./latihan/pages/PageDashboard.jsx";
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-   <PageDashboard />
+   <App />
   </React.StrictMode>
 )
